@@ -1,0 +1,8 @@
+.DS_Store
+*.bak
+*.tmp
+.env
+.env.*
+node_modules/
+coverage/
+CLAUDE.example.md
